@@ -42,5 +42,4 @@ public class LabirintParamTests extends TestBase {
         open(urlChapter);
         $(".genre-name").shouldHave(text(expectedText));
     }
-
 }
